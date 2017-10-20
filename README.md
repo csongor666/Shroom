@@ -1,6 +1,8 @@
 # Shroom
 Shroom Project
+
 //The project aim is to controll a shroom house
+
 Values to control:
   T, temperature
   RH%, humidity
