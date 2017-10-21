@@ -34,6 +34,7 @@ Hardware list:
    - Heat Mat
    https://www.aliexpress.com/item/Heat-Mat-Reptile-Brooder-Incubator-Pet-Heating-Pad-Brew-EU-Plug-7W-14W-20W-28W/32830779563.html?shortkey=VjEBjeiq&addresstype=600
    $6
+  https://www.ebay.com/itm/Pet-Heating-Mat-15x28cm-7W-Reptile-Brooder-Incubator-Pad-Brew-EU-UK-Adapter-FY/272515578232?_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D41375%26meid%3D9b3715c3d5c34aa291f6a74004eb58c6%26pid%3D100005%26rk%3D5%26rkt%3D6%26sd%3D282527151528&_trksid=p2047675.c100005.m1851 
    - Relay
    https://www.ebay.com/itm/5V-1-2-4-8-Channel-Relay-Board-Module-for-Arduino-Raspberry-Pi-ARM-AVR-DSP-PIC-/263087956954
    $2
