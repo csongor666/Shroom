@@ -5,17 +5,17 @@ Shroom Project
 
 Values to control:
 
-  T, temperature
+ - T, temperature
   
-  RH%, humidity
+ - RH%, humidity
   
-  CO2, carbon dioxide
+ - CO2, carbon dioxide
   
 Devices to control:
 
-  Fan
+-  Fan
   
-  Heat Mat
+-  Heat Mat
   
 Hardware list:
   - Arduino Nano - Microcontroller
